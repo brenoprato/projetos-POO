@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="40" height="40">
+  <!-- Contorno preto circular 10x10 -->
+  <path d="M3 1h4v1h1v1h1v4H8v1H7v1H3V8H2V7H1V3h1V2h1V1z" fill="#111111" />
+  <!-- Cor base laranja -->
+  <path d="M3 2h4v1h1v4H7v1H3V7H2V3h1V2z" fill="#ff8800" />
+  <!-- Sombra inferior direita -->
+  <path d="M7 4h1v3H7v1H4V7h2V6h1V4z" fill="#cc5500" />
+  <!-- Reflexo de luz superior esquerdo -->
+  <rect x="3" y="3" width="2" height="1" fill="#ffcc66" />
+  <rect x="3" y="4" width="1" height="1" fill="#ffcc66" />
+</svg>
